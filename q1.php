@@ -4,6 +4,6 @@ for($value=0 , $value<=10, $value++){
 		echo $value."-";
 	}
 	else{
-		echo " ";
+		echo $value." ";
 	}
 ?>
